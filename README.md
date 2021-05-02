@@ -1,7 +1,7 @@
 ### Hi there, I am Claire Charles 👋🏽
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1xVxqhPsDiiYnE37nMpHZzmAdv23AQbjk/view?usp=sharing)
 
+https://user-images.githubusercontent.com/67120042/116806121-e8542b00-ab22-11eb-9aa2-606b46b9a68d.mp4
 
 
  ## Projects
