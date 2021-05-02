@@ -1,7 +1,6 @@
 ### Hi there, I am Claire Charles 👋🏽
 
-
-
+![Hey there,](https://user-images.githubusercontent.com/67120042/116816956-1c980d80-ab5c-11eb-91f6-f0bd3c02ee15.gif)
 
 
  ## Projects
@@ -26,8 +25,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="clairy_charles" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/clairy_charles)
-[<img align="left" alt="clairecharles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://charlesclaire101@gmail.com)
+
+ [<img align="left" alt="clairy_charles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/clairy_charles)
+
 
 <br/>
 
@@ -37,6 +37,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -59,3 +60,7 @@ Here are some ideas to get you started
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
