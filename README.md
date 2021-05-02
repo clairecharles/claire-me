@@ -17,11 +17,6 @@
 ![](https://komarev.com/ghpvc/?username=claire-me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/clairy_charles?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falclairy_charles&screen_name=clairy_charles)
 
-<p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=claire-me&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=claire-me&theme=tokyonight" />
-</p>
-
 
 ### Connect with me:
 
