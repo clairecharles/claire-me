@@ -1,22 +1,17 @@
 ### Hi there, I am Claire Charles 👋🏽
 
-- I am a Software Developer. I have experience in HTML, CSS, and basic JavaScript.
-- I’m currently learning React, Next.js, and TypeScript.
-- I'm passionate about contributing to Open Source.
-- I love sharing my knowledge through writing and public speaking
-- I am currently contributing to @Layer5
-- I am a dog lover
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1xVxqhPsDiiYnE37nMpHZzmAdv23AQbjk/view?usp=sharing)
 
 
 
  ## Projects
 
-- <a href="http://third-template-git-main.anita-ihuman.vercel.app/"> MNTN Template </a> 🏓
-- <a href="http://second-template.anita-ihuman.vercel.app/"> Woo Landing Template </a> 
+- <a href="https://claire-halloween.netlify.app/"> Halloween Project </a> 🏓
+- <a href="https://claire-me.github.io/claire-me.github.ios/"> Woo Landing Template </a> 
 - <a href="http://first-template.anita-ihuman.vercel.app/"> Community Landing Page Template </a> 
 
 ## Find me around the web 🌎: <a href="https://github.com/claire-me"><img align="left" width="150" height="150" src="https://ci3.googleusercontent.com/proxy/J9598pDwBaYqd4Aq9RPO_WxaeHybTUNFXMGlJ4-ob7UPjvktsbAldy692aW0vYFhZHNxc4fiExykgA4rygKR4u3c-59QfkpKzuDwnCST6m9rMX-lKoorcuqlPSWd-kTN6kqS1lp_=s0-d-e1-ft#https://octocat-generator-assets.githubusercontent.com/my-octocat-1615809367812.png"></a>
-- Learning in public on <a href="https://movi.hashnode.dev/?guid=80bb995c-8841-4cf2-9171-c2605ec9215b&deviceId=779b1e9d-de57-4003-a434-f15e3f17c629">Hashnode</a> 📹 ✍🏾
+- Learning in public on <a href="https://clairance.hashnode.dev/">Hashnode</a> 📹 ✍🏾
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
