@@ -1,7 +1,7 @@
 ### Hi there, I am Claire Charles 👋🏽
 
 
-https://user-images.githubusercontent.com/67120042/116806121-e8542b00-ab22-11eb-9aa2-606b46b9a68d.mp4
+
 
 
  ## Projects
@@ -26,7 +26,8 @@ https://user-images.githubusercontent.com/67120042/116806121-e8542b00-ab22-11eb-
 
 ### Connect with me:
 
-[<img align="left" alt="Anita_ihuman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/clairy_charles)
+[<img align="left" alt="clairy_charles" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/clairy_charles)
+[<img align="left" alt="clairecharles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://charlesclaire101@gmail.com)
 
 <br/>
 
