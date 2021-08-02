@@ -7,7 +7,7 @@
 
 - <a href="https://claire-halloween.netlify.app/"> Halloween Project </a> 🏓
 - <a href="https://claire-me.github.io/claire-me.github.ios/"> Color Game </a> 
-- <a href="https://claire-me.github.io/claire-me.github.co/"> Gift Shop Template </a> 
+- <a href="https://doggies-olive.vercel.app/"> Doggies </a> 
 
 ## Find me around the web 🌎: 
 - Learning in public on <a href="https://clairance.hashnode.dev/">Hashnode</a> 📹 ✍🏾
