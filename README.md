@@ -21,7 +21,7 @@
 ### Connect with me:
 
 
- [<img align="left" alt="clairy_charles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/clairy_charles)
+ [<img align="left" alt="clairy_charles | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/claire_me101)
 
 
 <br/>
