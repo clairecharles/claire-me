@@ -10,7 +10,7 @@
 - <a href="https://doggies-olive.vercel.app/"> Doggies </a> 
 
 ## Find me around the web 🌎: 
-- Learning in public on <a href="https://clairance.hashnode.dev/">Hashnode</a> 📹 ✍🏾
+- Learning in public on <a href="https://claire-me.hashnode.dev/">Hashnode</a> 📹 ✍🏾
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
