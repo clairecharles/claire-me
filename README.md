@@ -6,7 +6,7 @@
  ## Projects
 
 - <a href="https://claire-halloween.netlify.app/"> Halloween Project </a> 🏓
-- <a href="https://claire-me.github.io/claire-me.github.ios/"> Color Game </a> 
+- <a href="https://claire-me.github.io/claire-me.github.ios/"> Color Game</a> 
 - <a href="https://doggies-olive.vercel.app/"> Doggies </a> 
 
 ## Find me around the web 🌎: 
@@ -53,7 +53,7 @@ Here are some ideas to get you started
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ......
 -->
 
 
